@@ -1,0 +1,20 @@
+{
+  "name": "customerapp",
+  "version": "1.0.0",
+  "description": "simple customer management app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^3.1.8",
+    "express": "*",
+    "express-validator": "5.3.1",
+    "mongojs": "^3.1.0",
+    "mongoose": "^6.8.3",
+    "nodemon": "^2.0.20"
+  },
+  "author": "me",
+  "license": "ISC"
+}
